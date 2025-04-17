@@ -1,4 +1,4 @@
-jamshidbekman/jamshidbekman# **HI, I'M JAMSHIDBEK 👋**
+# **HI, I'M JAMSHIDBEK 👋**
 
 I'm a passionate **Backend Developer** with expertise in **Node.js**, **NestJS**, and **PostgreSQL**. I specialize in building scalable and efficient systems with a focus on **event-driven architecture** and **data processing**. Currently, I'm diving deeper into **Kafka** and **microservices**.
 
