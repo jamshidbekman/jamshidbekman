@@ -33,7 +33,7 @@ I'm a passionate **Backend Developer** with expertise in **Node.js**, **NestJS**
 
 ## 📫 How to Reach Me
 
-- **Email**: [jamshidbekmansurov01@gmail.com]
+- **Email**: jamshidbekmansurov01@gmail.com
 - **LinkedIn**: [Jamshidbek Mansurov](https://www.linkedin.com/in/jamshidbek-mansurov-699a26270)
 - **GitHub**: [Jamshidbek Mansurov GitHub](https://github.com/jamshidbekman)
 
